@@ -2,6 +2,9 @@
 
 This Streamlit application allows users to check their eligibility for a loan based on various personal, financial, and asset-related details. The application also provides a visual representation of feature importance using LIME (Local Interpretable Model-agnostic Explanations).
 
+## Product Link
+URL :https://loan-approval-project.streamlit.app
+
 ## Features
 
 - **Personal Information Input**: Users can enter their personal details such as name, contact information, and educational background.
